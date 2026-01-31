@@ -36,3 +36,10 @@ temp/
 
 # Uploads
 uploads/
+output/
+
+# Windows
+nul
+
+# Claude
+.claude/
